@@ -1,0 +1,39 @@
+name: remoteoperation
+description: "Remote Operation."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+  flutter: ">=3.13.0 <3.16.0"
+
+dependencies:
+  auto_route: 7.8.4
+  cloud_firestore: 4.17.3
+  firebase_auth: 4.16.0
+  firebase_core: 2.31.0
+  flutter_network_connectivity: 0.0.6
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  geolocator: 10.1.0
+  get_it: 7.6.4
+  google_maps_flutter: 2.6.1
+  intl: any
+  logger: 2.0.2+1
+  url_launcher: 6.2.6
+  widget_to_marker: 1.0.5
+
+dev_dependencies:
+  auto_route_generator: 7.3.2
+  build_runner: 2.4.7
+  flutter_lints: 3.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fonts/
+    - assets/icons/

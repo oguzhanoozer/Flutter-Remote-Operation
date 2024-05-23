@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437529102269",
+    "project_id": "evreka-5a3e6",
+    "storage_bucket": "evreka-5a3e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437529102269:android:9040b533edbf8ab58f34d4",
+        "android_client_info": {
+          "package_name": "com.ozi.remoteoperation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8E9ttl_OMErVKevmj369x-NqGBNqF4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
